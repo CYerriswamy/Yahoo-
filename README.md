@@ -1,2 +1,2 @@
 # Yahoo-
-Yahoo! repository is creeated for Yahoo Mailsever.
+Yahoo! repository is created for Yahoo Mailsever.
